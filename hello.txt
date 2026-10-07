@@ -1,0 +1,1 @@
+Hello! The other file prints hello.
